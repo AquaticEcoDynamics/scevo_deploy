@@ -1,1 +1,1 @@
-FROM jingyingwong/scevo_dashboard:latest
+FROM matthipsey/scevo_dash:latest
